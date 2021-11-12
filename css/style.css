@@ -1,0 +1,29 @@
+h3{
+	color: greenyellow;
+	background: red;
+}
+.head1{
+	color: red;
+	background: greenyellow;
+}
+.head2{
+	color: greenyellow;
+	background: red;
+}
+.border{
+	border: 5px solid green;
+}
+#footer{
+	color: green;
+	font-size: 40px;
+}
+.head4{
+	color: black;
+	font-size: 30px;
+}
+.box{
+	width: 50%;
+	height: 100px;
+	background: rgba(0, 0, 0, .3);
+	margin-top: -80px;
+}
